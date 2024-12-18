@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT\\UnitTest\\VaxiDrez2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{430C0F83-813F-4223-8D31-0FAF4FD08B3D}|LibreriaVaxiMSTest\\LibreriaVaxiMSTest.csproj|c:\\git\\unittest\\vaxidrez2\\libreriavaximstest\\operacionmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430C0F83-813F-4223-8D31-0FAF4FD08B3D}|LibreriaVaxiMSTest\\LibreriaVaxiMSTest.csproj|solutionrelative:libreriavaximstest\\operacionmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C5B9BC9-BBAD-4D10-BA1A-12BEAEFB54B1}|LibreriaVaxi\\LibreriaVaxi.csproj|c:\\git\\unittest\\vaxidrez2\\libreriavaxi\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C5B9BC9-BBAD-4D10-BA1A-12BEAEFB54B1}|LibreriaVaxi\\LibreriaVaxi.csproj|solutionrelative:libreriavaxi\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperacionMSTest.cs",
+              "DocumentMoniker": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxiMSTest\\OperacionMSTest.cs",
+              "RelativeDocumentMoniker": "LibreriaVaxiMSTest\\OperacionMSTest.cs",
+              "ToolTip": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxiMSTest\\OperacionMSTest.cs",
+              "RelativeToolTip": "LibreriaVaxiMSTest\\OperacionMSTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:13:27.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operacion.cs",
+              "DocumentMoniker": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxi\\Operacion.cs",
+              "RelativeDocumentMoniker": "LibreriaVaxi\\Operacion.cs",
+              "ToolTip": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxi\\Operacion.cs",
+              "RelativeToolTip": "LibreriaVaxi\\Operacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T18:57:30.657Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
