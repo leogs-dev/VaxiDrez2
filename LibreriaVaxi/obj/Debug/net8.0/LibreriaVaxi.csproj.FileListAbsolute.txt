@@ -9,3 +9,4 @@ C:\GIT\UnitTest\VaxiDrez2\LibreriaVaxi\obj\Debug\net8.0\LibreriaVaxi.dll
 C:\GIT\UnitTest\VaxiDrez2\LibreriaVaxi\obj\Debug\net8.0\refint\LibreriaVaxi.dll
 C:\GIT\UnitTest\VaxiDrez2\LibreriaVaxi\obj\Debug\net8.0\LibreriaVaxi.pdb
 C:\GIT\UnitTest\VaxiDrez2\LibreriaVaxi\obj\Debug\net8.0\ref\LibreriaVaxi.dll
+C:\GIT\UnitTest\VaxiDrez2\LibreriaVaxi\obj\Debug\net8.0\LibreriaVaxi.sourcelink.json

@@ -112,3 +112,4 @@ C:\GIT\UnitTest\VaxiDrez2\LibreriaVaxiMSTest\obj\Debug\net8.0\refint\LibreriaVax
 C:\GIT\UnitTest\VaxiDrez2\LibreriaVaxiMSTest\obj\Debug\net8.0\LibreriaVaxiMSTest.pdb
 C:\GIT\UnitTest\VaxiDrez2\LibreriaVaxiMSTest\obj\Debug\net8.0\LibreriaVaxiMSTest.genruntimeconfig.cache
 C:\GIT\UnitTest\VaxiDrez2\LibreriaVaxiMSTest\obj\Debug\net8.0\ref\LibreriaVaxiMSTest.dll
+C:\GIT\UnitTest\VaxiDrez2\LibreriaVaxiMSTest\obj\Debug\net8.0\LibreriaVaxiMSTest.sourcelink.json

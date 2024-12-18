@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\GIT\\UnitTest\\VaxiDrez2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{430C0F83-813F-4223-8D31-0FAF4FD08B3D}|LibreriaVaxiMSTest\\LibreriaVaxiMSTest.csproj|c:\\git\\unittest\\vaxidrez2\\libreriavaximstest\\operacionmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{430C0F83-813F-4223-8D31-0FAF4FD08B3D}|LibreriaVaxiMSTest\\LibreriaVaxiMSTest.csproj|solutionrelative:libreriavaximstest\\operacionmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ADC454E3-2FC8-4B33-A8E5-0CD8B036C148}|LibreriaVaxiNUnitTest\\LibreriaVaxiNUnitTest.csproj|c:\\git\\unittest\\vaxidrez2\\libreriavaxinunittest\\operacionnunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADC454E3-2FC8-4B33-A8E5-0CD8B036C148}|LibreriaVaxiNUnitTest\\LibreriaVaxiNUnitTest.csproj|solutionrelative:libreriavaxinunittest\\operacionnunittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2C5B9BC9-BBAD-4D10-BA1A-12BEAEFB54B1}|LibreriaVaxi\\LibreriaVaxi.csproj|c:\\git\\unittest\\vaxidrez2\\libreriavaxi\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C5B9BC9-BBAD-4D10-BA1A-12BEAEFB54B1}|LibreriaVaxi\\LibreriaVaxi.csproj|solutionrelative:libreriavaxi\\operacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{430C0F83-813F-4223-8D31-0FAF4FD08B3D}|LibreriaVaxiMSTest\\LibreriaVaxiMSTest.csproj|c:\\git\\unittest\\vaxidrez2\\libreriavaximstest\\operacionmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{430C0F83-813F-4223-8D31-0FAF4FD08B3D}|LibreriaVaxiMSTest\\LibreriaVaxiMSTest.csproj|solutionrelative:libreriavaximstest\\operacionmstest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "OperacionMSTest.cs",
-              "DocumentMoniker": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxiMSTest\\OperacionMSTest.cs",
-              "RelativeDocumentMoniker": "LibreriaVaxiMSTest\\OperacionMSTest.cs",
-              "ToolTip": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxiMSTest\\OperacionMSTest.cs",
-              "RelativeToolTip": "LibreriaVaxiMSTest\\OperacionMSTest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T19:13:27.051Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +32,35 @@
               "RelativeDocumentMoniker": "LibreriaVaxi\\Operacion.cs",
               "ToolTip": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxi\\Operacion.cs",
               "RelativeToolTip": "LibreriaVaxi\\Operacion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T18:57:30.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OperacionNUnitTest.cs",
+              "DocumentMoniker": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxiNUnitTest\\OperacionNUnitTest.cs",
+              "RelativeDocumentMoniker": "LibreriaVaxiNUnitTest\\OperacionNUnitTest.cs",
+              "ToolTip": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxiNUnitTest\\OperacionNUnitTest.cs",
+              "RelativeToolTip": "LibreriaVaxiNUnitTest\\OperacionNUnitTest.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAA1wBYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T20:15:49.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OperacionMSTest.cs",
+              "DocumentMoniker": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxiMSTest\\OperacionMSTest.cs",
+              "RelativeDocumentMoniker": "LibreriaVaxiMSTest\\OperacionMSTest.cs",
+              "ToolTip": "C:\\GIT\\UnitTest\\VaxiDrez2\\LibreriaVaxiMSTest\\OperacionMSTest.cs",
+              "RelativeToolTip": "LibreriaVaxiMSTest\\OperacionMSTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:13:27.051Z",
               "EditorCaption": ""
             }
           ]
